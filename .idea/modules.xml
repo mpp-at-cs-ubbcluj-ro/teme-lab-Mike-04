@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBtest.iml" filepath="$PROJECT_DIR$/DBtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBtest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DBtest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBtest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DBtest.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/src.iml" filepath="$PROJECT_DIR$/.idea/modules/src.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/src.main.iml" filepath="$PROJECT_DIR$/.idea/modules/src.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/src.test.iml" filepath="$PROJECT_DIR$/.idea/modules/src.test.iml" />
